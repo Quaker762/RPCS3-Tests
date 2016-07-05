@@ -3,6 +3,7 @@
 *.ko
 *.obj
 *.elf
+*.self
 
 # Precompiled Headers
 *.gch
@@ -87,3 +88,6 @@ $RECYCLE.BIN/
 *.cache
 Render_Test/PS3_Debug/Render_Test.lastbuildstate
 Render_Test/PS3_Debug/gcmhelper_disassembly.txt
+Test Suite.opensdf
+Test Suite.sdf
+*.self
