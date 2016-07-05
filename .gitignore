@@ -81,3 +81,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.tlog
+*.rsp
+*.log
+*.cache
+Render_Test/PS3_Debug/Render_Test.lastbuildstate
+Render_Test/PS3_Debug/gcmhelper_disassembly.txt

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "memtest", "memtest\memtest.vcxproj", "{B936F01F-74B2-4124-88D6-994AA1B419A8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Resolution_Test", "Resolution_Test\Resolution_Test.vcxproj", "{94E180F3-8D9C-42AA-9E68-5B9B4880F45C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Render_Test", "Render_Test\Render_Test.vcxproj", "{1ED88F97-1D92-448A-A76C-A617C59BBCE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|PS3 = Debug|PS3
+		Release|PS3 = Release|PS3
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B936F01F-74B2-4124-88D6-994AA1B419A8}.Debug|PS3.ActiveCfg = Debug|PS3
+		{B936F01F-74B2-4124-88D6-994AA1B419A8}.Debug|PS3.Build.0 = Debug|PS3
+		{B936F01F-74B2-4124-88D6-994AA1B419A8}.Release|PS3.ActiveCfg = Release|PS3
+		{B936F01F-74B2-4124-88D6-994AA1B419A8}.Release|PS3.Build.0 = Release|PS3
+		{94E180F3-8D9C-42AA-9E68-5B9B4880F45C}.Debug|PS3.ActiveCfg = Debug|PS3
+		{94E180F3-8D9C-42AA-9E68-5B9B4880F45C}.Debug|PS3.Build.0 = Debug|PS3
+		{94E180F3-8D9C-42AA-9E68-5B9B4880F45C}.Release|PS3.ActiveCfg = Release|PS3
+		{94E180F3-8D9C-42AA-9E68-5B9B4880F45C}.Release|PS3.Build.0 = Release|PS3
+		{1ED88F97-1D92-448A-A76C-A617C59BBCE8}.Debug|PS3.ActiveCfg = Debug|PS3
+		{1ED88F97-1D92-448A-A76C-A617C59BBCE8}.Debug|PS3.Build.0 = Debug|PS3
+		{1ED88F97-1D92-448A-A76C-A617C59BBCE8}.Release|PS3.ActiveCfg = Release|PS3
+		{1ED88F97-1D92-448A-A76C-A617C59BBCE8}.Release|PS3.Build.0 = Release|PS3
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
